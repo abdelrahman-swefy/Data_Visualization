@@ -1,10 +1,10 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Prosper Loan Exploration
+
 
 
 ## Dataset
 
-> There are 113,937 kiabs ub tge dataset with 81 features. I focused on the borrower rate and what characteristics affect the borrower's rate.
+> There are 113,937 loans in this dataset with 81 features. I focused on the borrower rate and what characteristics affect the borrower's rate.
 From the 81 features I have selected 6 characteristics which are Loan Original Amount, Monthly Loan Payment, Employment Status, Employment Status Duration, Prosper Rating and Term.
 And as I stated befor the main feature of interest is the borrower's rate.
 
